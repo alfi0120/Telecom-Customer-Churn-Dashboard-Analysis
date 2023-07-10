@@ -2,9 +2,9 @@
 
 ## Table of Contents
 - [Introduction](#Introduction)
-- [Data Source](#Data Source)
-- [Data Preprocessing](#Data Preprocessing)
-- [Data Visualization](#Data Visualization)
+- [Data Source](#Data-Source)
+- [Data Preprocessing](#Data-Preprocessing)
+- [Data Visualization](#Data-Visualization)
 - [Analysis](#Analysis)
 - [Recommendations](#Recommendations)
 
