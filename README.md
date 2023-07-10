@@ -23,16 +23,12 @@ Before the analysis process, I created some calculated fields which contain:
 ## Data Visualization
 Here is the dashboard I have created using Tableau:
 | Overview |
-| ----------- |
 |![Customer Churn Overview](https://github.com/alfi0120/Telecom-Customer-Churn-Dashboard-Analysis/blob/d75a3138ad6648279f1aeec34b827905d3f1d2e3/Customer%20Churn%20Overview.png)|
 | Customer Account Information |
-| ----------- |
 |![Customer Account Information](https://github.com/alfi0120/Telecom-Customer-Churn-Dashboard-Analysis/blob/d75a3138ad6648279f1aeec34b827905d3f1d2e3/Customer%20Account%20Information.png)|
 | Customer Demographic Information |
-| ----------- |
 |![Demographic Information](https://github.com/alfi0120/Telecom-Customer-Churn-Dashboard-Analysis/blob/d75a3138ad6648279f1aeec34b827905d3f1d2e3/Demographic%20Information.png)|
 | Customer Service Information |
-| ----------- |
 |![Service Information](https://github.com/alfi0120/Telecom-Customer-Churn-Dashboard-Analysis/blob/d75a3138ad6648279f1aeec34b827905d3f1d2e3/Service%20Information.png)|
 
 ## Analysis
