@@ -42,7 +42,7 @@ From the dashboard above, there are many insights that we can get:
 - Most of the churned customers choose month-to-month contracts which is a bad sign since month-to-month contracts attract more new customers.
 - Most of the churned customers are new customers. This is a bad sign since the company needs to attract new customers.
 - Churned customers have fewer referrals than customers who stay.
-- The age group of 65 – 80 has the highest churn rate, but they also contain the least churn rate.
+- The age group of 65 – 80 has the highest churn rate.
 - A lot of customers had an issue with fiber optic internet since it has a high customer churn rate of 40.72% and offer E whose churn rate is 52.92%.
 - Most of the churned customers did not sign up for premium tech support, unlimited data, and device protection.
 
