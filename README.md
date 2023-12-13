@@ -21,7 +21,7 @@ Before the analysis process, I created some calculated fields which contain:
 - Calculate the percentage of customers churn: SUM([Is Churn])/[Number of Customers]*100
 
 ## Data Visualization
-Here is the dashboard I have created using Tableau:
+Here is the dashboard I have created using [Tableau](https://public.tableau.com/app/profile/nur.alfi.laily/viz/CustomerChurnAnalysis_17020082894860/Overview):
 | Overview |
 | ----------- |
 |![Customer Churn Overview](https://github.com/alfi0120/Telecom-Customer-Churn-Dashboard-Analysis/blob/f115637222d93252f0682a5e062fc8fbd9e2b24a/Overview.png)|
