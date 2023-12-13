@@ -17,8 +17,9 @@ The dataset for this task was obtained by [Maven](https://mavenanalytics.io/data
 ## Data Preprocessing
 Before the analysis process, I created some calculated fields which contain:
 - Checking whether the customer status is churned or not: IF [Customer Status] = "Churned" THEN 1 ELSE 0 END
-- Count the number of customers: COUNTD([Customer ID])
-- Calculate the percentage of customers churn: SUM([Is Churn])/[Number of Customers]*100
+- Calculate the percentage of customers churn: SUM([Is Churn])/COUNTD([Customer ID])*100
+- Calculate revenue lost: SUM(IF [Is Churn] = 1 THEN [Total Revenue] ELSE 0 END)
+- Age grouping: IF [Age] <= 20 THEN 'Teenager' ELSEIF [Age] > 20 AND [Age] <= 35 THEN 'Young Adult' ELSEIF [Age] > 35 AND [Age] <= 55 THEN 'Middle Aged' ELSE 'Senior' END
 
 ## Data Visualization
 Here is the dashboard I have created using [Tableau](https://public.tableau.com/app/profile/nur.alfi.laily/viz/CustomerChurnAnalysis_17020082894860/Overview):
