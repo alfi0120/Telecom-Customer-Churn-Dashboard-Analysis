@@ -24,13 +24,11 @@ Before the analysis process, I created some calculated fields which contain:
 Here is the dashboard I have created using Tableau:
 | Overview |
 | ----------- |
-|![Customer Churn Overview](https://github.com/alfi0120/Telecom-Customer-Churn-Dashboard-Analysis/blob/d75a3138ad6648279f1aeec34b827905d3f1d2e3/Customer%20Churn%20Overview.png)|
-| Customer Account Information |
-|![Customer Account Information](https://github.com/alfi0120/Telecom-Customer-Churn-Dashboard-Analysis/blob/d75a3138ad6648279f1aeec34b827905d3f1d2e3/Customer%20Account%20Information.png)|
-| Customer Demographic Information |
-|![Demographic Information](https://github.com/alfi0120/Telecom-Customer-Churn-Dashboard-Analysis/blob/d75a3138ad6648279f1aeec34b827905d3f1d2e3/Demographic%20Information.png)|
-| Customer Service Information |
-|![Service Information](https://github.com/alfi0120/Telecom-Customer-Churn-Dashboard-Analysis/blob/d75a3138ad6648279f1aeec34b827905d3f1d2e3/Service%20Information.png)|
+|![Customer Churn Overview](https://github.com/alfi0120/Telecom-Customer-Churn-Dashboard-Analysis/blob/f115637222d93252f0682a5e062fc8fbd9e2b24a/Overview.png)|
+| Customer Information |
+|![Customer Information](https://github.com/alfi0120/Telecom-Customer-Churn-Dashboard-Analysis/blob/f115637222d93252f0682a5e062fc8fbd9e2b24a/Customer%20Information.png)|
+| Service Information |
+|![Service Information](https://github.com/alfi0120/Telecom-Customer-Churn-Dashboard-Analysis/blob/f115637222d93252f0682a5e062fc8fbd9e2b24a/Service%20Information.png)|
 
 ## Analysis
 From the dashboard above, there are many insights that we can get:
@@ -42,7 +40,6 @@ From the dashboard above, there are many insights that we can get:
 - Most of the churned customers choose month-to-month contracts which is a bad sign since month-to-month contracts attract more new customers.
 - Most of the churned customers are new customers. This is a bad sign since the company needs to attract new customers.
 - Churned customers have fewer referrals than customers who stay.
-- The age group of 65 – 80 has the highest churn rate.
 - A lot of customers had an issue with fiber optic internet since it has a high customer churn rate of 40.72% and offer E whose churn rate is 52.92%.
 - Most of the churned customers did not sign up for premium tech support, unlimited data, and device protection.
 
