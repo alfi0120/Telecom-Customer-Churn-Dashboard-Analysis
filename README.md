@@ -22,7 +22,7 @@ Before the analysis process, I created some calculated fields which contain:
 - Age grouping: IF [Age] <= 20 THEN 'Teenager' ELSEIF [Age] > 20 AND [Age] <= 35 THEN 'Young Adult' ELSEIF [Age] > 35 AND [Age] <= 55 THEN 'Middle Aged' ELSE 'Senior' END
 
 ## Data Visualization
-Here is the dashboard I have created using [Tableau](https://public.tableau.com/app/profile/nur.alfi.laily/viz/CustomerChurnAnalysis_17020082894860/Overview):
+Here is the dashboard I have created using [Tableau](https://public.tableau.com/app/profile/nur.alfi.laily/viz/CustomerChurnAnalysis_17020082894860/OverviewV2):
 | Overview |
 | ----------- |
 |![Customer Churn Overview](https://github.com/alfi0120/Telecom-Customer-Churn-Dashboard-Analysis/blob/f115637222d93252f0682a5e062fc8fbd9e2b24a/Overview.png)|
