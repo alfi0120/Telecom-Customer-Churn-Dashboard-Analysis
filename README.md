@@ -25,11 +25,11 @@ Before the analysis process, I created some calculated fields which contain:
 Here is the dashboard I have created using [Tableau](https://public.tableau.com/app/profile/nur.alfi.laily/viz/CustomerChurnAnalysis_17020082894860/OverviewV2):
 | Overview |
 | ----------- |
-|![Customer Churn Overview](https://github.com/alfi0120/Telecom-Customer-Churn-Dashboard-Analysis/blob/f115637222d93252f0682a5e062fc8fbd9e2b24a/Overview.png)|
+|![Customer Churn Overview](https://github.com/alfi0120/Telecom-Customer-Churn-Dashboard-Analysis/blob/2fddf5364959f5c3904e448f4a01e5d9545340ca/Overview%20V2.png)|
 | Customer Information |
-|![Customer Information](https://github.com/alfi0120/Telecom-Customer-Churn-Dashboard-Analysis/blob/f115637222d93252f0682a5e062fc8fbd9e2b24a/Customer%20Information.png)|
+|![Customer Information](https://github.com/alfi0120/Telecom-Customer-Churn-Dashboard-Analysis/blob/2fddf5364959f5c3904e448f4a01e5d9545340ca/Customer%20Information%20V2.png)|
 | Service Information |
-|![Service Information](https://github.com/alfi0120/Telecom-Customer-Churn-Dashboard-Analysis/blob/f115637222d93252f0682a5e062fc8fbd9e2b24a/Service%20Information.png)|
+|![Service Information](https://github.com/alfi0120/Telecom-Customer-Churn-Dashboard-Analysis/blob/2fddf5364959f5c3904e448f4a01e5d9545340ca/Service%20Information%20V2.png)|
 
 ## Analysis
 From the dashboard above, there are many insights that we can get:
